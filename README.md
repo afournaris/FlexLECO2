@@ -47,8 +47,8 @@ Simple Cryptographic interface adjustments per DUT:
 ###
 FlexLECO v2.0 is based on the published work in:
 
-A. Moschos, A. P. Fournaris, O. Koufopavlou, A Flexible Leakage Trace Collection Setup for Arbitrary Cryptographic IP Cores, in proc. of IEEE International Symposium on Hardware Oriented Security and Trust 2018 (IEEE HOST 2018), Washington DC, USA, April 30 - May 4, 2018
-A.P. Fournaris, A. Moschos, N. Sklavos, Side Channel Assessment Platforms and Tools for Ubiquitous Systems. In: Avoine, G., Hernandez-Castro, J. (eds) Security of Ubiquitous Computing Systems. Springer,(2021). Cham. https://doi.org/10.1007/978-3-030-10591-4_9  
+- A. Moschos, A. P. Fournaris, O. Koufopavlou, A Flexible Leakage Trace Collection Setup for Arbitrary Cryptographic IP Cores, in proc. of IEEE International Symposium on Hardware Oriented Security and Trust 2018 (IEEE HOST 2018), Washington DC, USA, April 30 - May 4, 2018
+- A.P. Fournaris, A. Moschos, N. Sklavos, Side Channel Assessment Platforms and Tools for Ubiquitous Systems. In: Avoine, G., Hernandez-Castro, J. (eds) Security of Ubiquitous Computing Systems. Springer,(2021). Cham. https://doi.org/10.1007/978-3-030-10591-4_9  
 
 ### Git structure
 
